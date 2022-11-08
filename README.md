@@ -1,5 +1,5 @@
 ### Salut 👋
- je suis developper en informatiquie🔐
+ je suis developper en informatique🔐
 
 ⚒️ Mon language de code favoris est le **Java** ainsi que le **Html**
 
