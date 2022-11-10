@@ -3,7 +3,7 @@
 
 - 🔭 En ce moment je travail sur [Anaria Network](https://discord.gg/t9MzPh4Dnb)
 
-- 🌱 Actuellement je travail sur les fork de **AnariaProjets**
+- 🌱 Actuellement je travail sur les fork de **Anaria**
 
 - 💬 Si vous avez des questions je suis disponible **Zin#7775**
 
