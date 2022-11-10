@@ -5,8 +5,6 @@
 
 - 🌱 Actuellement je travail sur les fork de **AnariaProjets**
 
-- 👯 Je suis en collaboration sur **AnariaProjets**
-
 - 💬 Si vous avez des questions je suis disponible **Zin#7775**
 
 - ⚡ Fun fact **j'aime le poulet 🍗**
