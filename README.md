@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Je suis Wabbeyy 🏰</h1>
+<h1 align="center">Salut 👋, Je suis Zin 🏰</h1>
 <h3 align="center">Je suis passionné de développement web et informatique</h3>
 
 <h3 align="left">Languages and Tools:</h3>
